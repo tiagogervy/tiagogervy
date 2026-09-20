@@ -10,7 +10,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=l1nk&color=blue&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/l1nk?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/l1nk?style=for-the-badge)
 
 </div>
 
@@ -38,7 +37,6 @@ Mon objectif est de continuer à développer mes compétences dans l'administrat
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
 ![IPv4](https://img.shields.io/badge/IPv4-4285F4?style=for-the-badge)
-![IPv6](https://img.shields.io/badge/IPv6-4285F4?style=for-the-badge)
 
 </div>
 
@@ -53,7 +51,6 @@ Mon objectif est de continuer à développer mes compétences dans l'administrat
 - 🛣️ Routage
 - 📡 DHCP
 - 🌎 DNS
-- 🔄 NAT
 - 🔥 Firewall
 - 🏢 Architecture LAN
 
@@ -68,6 +65,9 @@ Mon objectif est de continuer à développer mes compétences dans l'administrat
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-33AADD?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 </div>
 
@@ -85,9 +85,9 @@ Mon objectif est de continuer à développer mes compétences dans l'administrat
 - Linux
 - Kali Linux
 - Parrot OS
-- Administration en ligne de commande
-- Gestion des services
-- Gestion des utilisateurs et permissions
+- Debian
+- Ubuntu
+- Cyber
 - Configuration réseau
 
 ---
@@ -97,28 +97,12 @@ Mon objectif est de continuer à développer mes compétences dans l'administrat
 <div align="center">
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 </div>
 
 ### 🖥️ Proxmox
 
 J'utilise la virtualisation pour expérimenter différentes architectures et reproduire des infrastructures informatiques.
-
-```text
-                 🖥️ SERVEUR
-                     │
-                  PROXMOX
-                     │
-        ┌────────────┼────────────┐
-        │            │            │
-      💻 VM        🖥️ VM        🐧 VM
-    Windows       Linux       Services
-        │            │            │
-        └────────────┼────────────┘
-                     │
-                  🌐 Réseau
-```
 
 ### 🍓 Raspberry Pi
 
@@ -127,9 +111,6 @@ Je m'intéresse également au **Raspberry Pi** pour :
 - Services réseau
 - Serveurs légers
 - Expérimentation
-- Administration Linux
-- Projets réseau
-- IoT
 
 ---
 
@@ -180,6 +161,8 @@ L'objectif est de reproduire une infrastructure similaire à celle que l'on peut
 - Firewall
 - Segmentation réseau
 - Architecture d'infrastructure
+- RED Team
+- BLUE Team
 
 ---
 
@@ -229,8 +212,6 @@ Je souhaite y approfondir notamment :
 - Gestion des équipements
 
 ## 🚀 Après le BTS
-
-Je souhaite ensuite poursuivre vers une **formation d'ingénieur spécialisée dans les systèmes, réseaux et infrastructures**, avec une orientation vers la sécurité des infrastructures.
 
 Mon objectif professionnel est de devenir **Ingénieur Systèmes, Réseaux et Infrastructures**, avec des compétences solides en administration réseau, systèmes, virtualisation et sécurité.
 
