@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Tiago
 
-<!--
-**tiagogervy/tiagogervy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Étudiant en **Terminale BAC PRO CIEL**  
+🖧 Passionné par les **réseaux, les infrastructures et les systèmes**  
+🚒 Sapeur-pompier volontaire
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 À propos de moi
+
+Je suis actuellement en Terminale **BAC PRO CIEL — Cybersécurité, Informatique et réseaux, Électronique**.
+
+Je m'intéresse principalement à la conception, la configuration et l'administration des **réseaux informatiques et des infrastructures**.
+
+J'aime comprendre comment les différents équipements communiquent entre eux et comment construire une infrastructure fiable et fonctionnelle.
+
+### 🌐 Mes principaux centres d'intérêt
+
+- 🖧 Réseaux informatiques
+- 🔀 Switching & routing
+- 🏷️ VLAN
+- 📡 TCP/IP
+- 🌐 DNS & DHCP
+- 🖥️ Administration systèmes
+- 🏢 Infrastructures réseau
+- 🗄️ Serveurs
+- ☁️ Virtualisation
+- 🔥 Pare-feu
+- ⚙️ Automatisation
+
+---
+
+## 🛠️ Technologies & outils
+
+### 🌐 Réseaux
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+```text
+TCP/IP
+VLAN
+DHCP
+DNS
+Routage
+Switching
+Adressage IPv4 / IPv6
+NAT
+Firewall
