@@ -6,8 +6,6 @@
 
 **Construire • Administrer • Comprendre • Sécuriser**
 
-<br>
-
 </div>
 
 ---
