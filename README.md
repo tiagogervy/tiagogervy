@@ -286,6 +286,20 @@ L'engagement en tant que SPV demande de la régularité, de l'investissement et 
 🎯 **Objectif : devenir un professionnel capable de concevoir, administrer et sécuriser des infrastructures informatiques.**
 
 ---
+# 📫 Contact
+
+<div align="center">
+
+🐙 **GitHub** — [@l1nk](https://github.com/l1nk)
+
+💼 **LinkedIn** — *à ajouter*
+
+</div>
+
+---
+
+<div align="center">
+
 
 # 📊 GitHub
 
