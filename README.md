@@ -161,7 +161,7 @@ L'objectif est de reproduire une infrastructure similaire à celle que l'on peut
 
 ---
 
-## 🎓 Mon parcours d'études
+## 🎓 Mon projet d'études
 
 ```text
 🎓 BAC PRO CIEL
