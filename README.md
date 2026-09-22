@@ -166,35 +166,21 @@ L'objectif est de reproduire une infrastructure similaire à celle que l'on peut
 
 ---
 
-# 🎓 Mon projet d'études
-
-Mon objectif est de construire progressivement un parcours spécialisé dans les **systèmes, réseaux et infrastructures**.
+## 🎓 Mon parcours d'études
 
 ```text
-              🎓 BAC PRO CIEL
-                     │
-                     ▼
-              ┌─────────────┐
-              │  BTS SIO    │
-              │    SISR     │
-              └──────┬──────┘
-                     │
-                     ▼
-        🎓 Études supérieures
-                     │
-                     ▼
-       🖧 Systèmes & Réseaux
-                     │
-                     ▼
-       🏗️ Infrastructures IT
-                     │
-                     ▼
-     🔐 Sécurité des infrastructures
-                     │
-                     ▼
-      👨‍💻 Ingénieur systèmes,
-       réseaux & infrastructures
-```
+🎓 BAC PRO CIEL
+       │
+       ▼
+🎓 BTS SIO — SISR
+       │
+       ▼
+🎓 Diplôme d'ingénieur CPE Lyon
+   Informatique et réseaux de communication
+   └── Majeure : Infrastructures systèmes et réseaux
+       │
+       ▼
+💼 Ingénieur systèmes, réseaux et infrastructures
 
 ## 📚 BTS SIO — SISR
 
