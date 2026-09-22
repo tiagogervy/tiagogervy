@@ -242,28 +242,6 @@ Chaque intervention peut être différente et nécessite de savoir s'adapter à 
 
 L'engagement en tant que SPV demande de la régularité, de l'investissement et une volonté constante de progresser.
 
-### 🚒 Travail en équipe
-
-```text
-             🚨 INTERVENTION
-                    │
-          ┌─────────┴─────────┐
-          │                   │
-       Analyse             Communication
-          │                   │
-          └─────────┬─────────┘
-                    │
-                 ÉQUIPE
-                    │
-          ┌─────────┴─────────┐
-          │                   │
-      Procédures          Coordination
-          │                   │
-          └─────────┬─────────┘
-                    │
-                 ACTION
-```
-
 ---
 
 # 🧠 Compétences que je développe
